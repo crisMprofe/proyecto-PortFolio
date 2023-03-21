@@ -1,0 +1,27 @@
+.container-fluid{
+    background-color: #d8e5f0;
+    height:100px ;
+}
+.logo{
+    display: inline-block;
+    width: 150px;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+#logo-AP{
+    padding-left: 1px;
+}
+.logo-I{
+    width: 50px;
+    padding-right: 10px;
+}
+#redes{
+    /*float:right;*/
+    margin-left: 50px;
+    padding-top:30px;
+}
+#redes > a img  {
+    width:40px;
+    padding:5px;
+} 
+
