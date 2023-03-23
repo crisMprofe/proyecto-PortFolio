@@ -1,0 +1,5 @@
+div{
+    background: rgb(205,205,221);
+    background: linear-gradient(90deg, rgba(205,205,221,1) 0%, rgba(126,122,122,1) 49%, rgba(18,81,94,1) 100%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

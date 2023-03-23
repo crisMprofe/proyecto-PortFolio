@@ -1,0 +1,37 @@
+.row{
+    background-color: #ebe3e3;
+    padding:20px;
+    margin-top:10px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.card{
+    padding:10px;
+    margin-top:10px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #eca2d6;
+}
+.card>img{
+    width: 75%;
+    text-align: center;
+    box-shadow: 10px 10px 30px #351a36;
+}
+h2, h3{
+    display: inline;
+}
+
+.proyecto1{
+    
+    text-align: justify;
+}
+.proyecto1img{
+    box-shadow: 10px 10px 30px #351a36;
+    text-align: center;
+}
+img:hover{
+    border-radius: 1px solid #e00f0f;;
+}
