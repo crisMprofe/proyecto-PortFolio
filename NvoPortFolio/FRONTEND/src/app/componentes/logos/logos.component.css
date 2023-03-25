@@ -1,0 +1,68 @@
+.container-fluid{
+    margin-top: 7px;
+    background-color: #c763f5;
+    height:auto ;
+    box-shadow: 0px 5px 10px #16031f;
+}
+
+
+.logo{
+    display:inline-block;
+    max-width: 120px;
+    min-height: auto;
+    padding:2px;
+}
+
+#redes{
+    /*float:right;*/
+    margin-left: 5px;
+    padding-top: 15px;
+}
+#redes > a img  {
+    max-width:45px;
+    padding:7px;
+} 
+/*@media (max-width: 575px){
+   #logos{
+        position: absolute;
+        width:5%;
+        border-radius:100%;
+        box-shadow: 3px 3px 3px rgb(114, 42, 148); 
+        left: 5%;
+        top:10px; 
+
+    }
+    #redes{
+        position: absolute;
+        width:10%;
+        border-radius:100%;
+        box-shadow: 3px 3px 3px rgb(114, 42, 148); 
+        left: 20%;
+        top:10px; 
+   
+     }
+}*/
+#logueo{
+    padding-top: 20px;
+}
+.btn{
+   max-width: 250px; 
+   color:rgb(134, 40, 153);
+   font-style: oblique;
+   display: flex;
+   
+}
+/*Vista celular*/
+/*.container-fluid{
+    flex-direction: column; 
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+#redes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}*/

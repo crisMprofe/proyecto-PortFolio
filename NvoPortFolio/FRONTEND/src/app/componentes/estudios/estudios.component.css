@@ -1,0 +1,14 @@
+.row{
+    background-color: #ebe3e3;
+    padding:20px;
+    margin-top:10px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+h2, h3{
+    display: inline;
+}
+p{
+    text-align: justify;
+}

@@ -1,0 +1,18 @@
+.row{
+    background-color: rgb(146, 116, 173);
+}
+footer{
+    color:rgb(228, 240, 240);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 2px -2px 5px #615d5de0;
+    
+}
+p>img{
+    max-width: 20px;
+    min-height: auto;
+}
